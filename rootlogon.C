@@ -1,5 +1,5 @@
 // rootlogon.C for loading THERMUS shared object libraries
-// checked on 20/07/2021 with root-v6-24-02 (B.H.)
+// valid and checked with branch master on 19/01/2026 with root-v6-38-00 (B.H.)
 
 {
   TString sProgName = gProgName;
